@@ -125,3 +125,24 @@ Player Card: 4 of Clubs, K of Hearts, 7 of Diamonds,
 Bank Balance before Bet: $0
 Bet Amount: $246
 Result: win
+
+Date and Time = 07/02/2023 18:20:46
+Dealer Card: 3 of Spades, 7 of Hearts, Q of Diamonds, 
+Player Card: A of Diamonds, K of Clubs, 
+Bank Balance before Bet: $123000
+Bet Amount: $123
+Result: win
+
+Date and Time = 07/02/2023 18:26:05
+Dealer Card: 4 of Diamonds, Q of Diamonds, A of Diamonds, 3 of Spades, 
+Player Card: A of Spades, 4 of Clubs, 
+Bank Balance before Bet: $123000
+Bet Amount: $123
+Result: lose
+
+Date and Time = 07/02/2023 18:26:12
+Dealer Card: J of Spades, 3 of Clubs, 6 of Spades, 
+Player Card: 4 of Hearts, 2 of Spades, 
+Bank Balance before Bet: $122877
+Bet Amount: $123
+Result: lose

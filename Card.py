@@ -1,6 +1,6 @@
 from random import shuffle
 
-
+# Class definition for Card
 class Card:
 
   def __init__(self, rank, suit):
