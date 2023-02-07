@@ -1,0 +1,127 @@
+
+
+Date and Time = 24/01/2023 23:50:24
+Dealer Card: J of Hearts, 7 of Clubs, 
+Player Card: 10 of Spades, 7 of Hearts, 6 of Diamonds, 
+Bank Balance before Bet: $123123123000001
+Bet Amount: $123123
+Result: lose
+
+Date and Time = 24/01/2023 23:50:33
+Dealer Card: 10 of Diamonds, Q of Spades, 
+Player Card: 9 of Clubs, 10 of Clubs, 3 of Clubs, 
+Bank Balance before Bet: $123123122876878
+Bet Amount: $123123
+Result: lose
+
+Date and Time = 24/01/2023 23:50:40
+Dealer Card: 4 of Hearts, 2 of Diamonds, 
+Player Card: 5 of Clubs, 4 of Clubs, 5 of Diamonds, 2 of Clubs, 9 of Spades, 
+Bank Balance before Bet: $123110810464466
+Bet Amount: $12312412412
+Result: lose
+
+Date and Time = 24/01/2023 23:50:51
+Dealer Card: 9 of Hearts, 2 of Spades, 7 of Spades, 
+Player Card: K of Hearts, 3 of Spades, 8 of Clubs, 
+Bank Balance before Bet: $246221620928932
+Bet Amount: $123110810464466
+Result: win
+
+Date and Time = 24/01/2023 23:51:05
+Dealer Card: Q of Diamonds, 3 of Diamonds, 
+Player Card: Q of Hearts, 7 of Diamonds, A of Hearts, 8 of Spades, 
+Bank Balance before Bet: $0
+Bet Amount: $246221620928932
+Result: lose
+
+Date and Time = 24/01/2023 23:52:32
+Dealer Card: 10 of Clubs, 5 of Clubs, 6 of Spades, 
+Player Card: A of Hearts, 4 of Diamonds, A of Spades, 
+Bank Balance before Bet: $123124123
+Bet Amount: $123124123
+Result: tie
+
+Date and Time = 24/01/2023 23:55:01
+Dealer Card: 9 of Hearts, 5 of Diamonds, 3 of Hearts, 2 of Spades, 
+Player Card: A of Diamonds, J of Clubs, 
+Bank Balance before Bet: $0
+Bet Amount: $0
+Result: win
+
+Date and Time = 24/01/2023 23:55:26
+Dealer Card: J of Hearts, J of Diamonds, 
+Player Card: 8 of Diamonds, 9 of Spades, 
+Bank Balance before Bet: $0
+Bet Amount: $0
+Result: lose
+
+Date and Time = 25/01/2023 00:04:57
+Dealer Card: 9 of Hearts, 4 of Clubs, 6 of Clubs, 
+Player Card: 7 of Hearts, 6 of Diamonds, A of Spades, 7 of Diamonds, 
+Bank Balance before Bet: $246
+Bet Amount: $123
+Result: win
+
+Date and Time = 25/01/2023 00:05:16
+Dealer Card: 10 of Clubs, A of Clubs, 
+Player Card: 9 of Diamonds, 7 of Clubs, 4 of Hearts, 
+Bank Balance before Bet: $0
+Bet Amount: $246
+Result: lose
+
+Date and Time = 25/01/2023 00:06:26
+Dealer Card: A of Diamonds, 10 of Hearts, 
+Player Card: A of Hearts, 8 of Clubs, 4 of Diamonds, 
+Bank Balance before Bet: $123000
+Bet Amount: $123
+Result: lose
+
+Date and Time = 25/01/2023 00:06:41
+Dealer Card: 6 of Clubs, 3 of Spades, 7 of Spades, 4 of Clubs, 
+Player Card: 2 of Hearts, Q of Clubs, 4 of Spades, 
+Bank Balance before Bet: $122877
+Bet Amount: $123
+Result: lose
+
+Date and Time = 25/01/2023 00:07:04
+Dealer Card: 6 of Diamonds, 5 of Spades, Q of Hearts, 
+Player Card: 7 of Diamonds, 8 of Spades, 
+Bank Balance before Bet: $123000
+Bet Amount: $123
+Result: lose
+
+Date and Time = 25/01/2023 00:07:34
+Dealer Card: 8 of Diamonds, 10 of Hearts, 
+Player Card: 6 of Hearts, 5 of Hearts, 6 of Clubs, 
+Bank Balance before Bet: $123001
+Bet Amount: $123
+Result: lose
+
+Date and Time = 25/01/2023 00:07:40
+Dealer Card: 8 of Hearts, 8 of Clubs, 
+Player Card: Q of Diamonds, J of Hearts, 4 of Clubs, 
+Bank Balance before Bet: $122878
+Bet Amount: $123
+Result: lose
+
+Date and Time = 25/01/2023 00:09:00
+Dealer Card: Q of Clubs, Q of Diamonds, 
+Player Card: 9 of Diamonds, 8 of Spades, 
+Bank Balance before Bet: $123000
+Bet Amount: $123
+Result: lose
+
+Date and Time = 26/01/2023 18:04:09
+Dealer Card: 6 of Clubs, Q of Hearts, 2 of Clubs, 
+Player Card: 10 of Spades, 10 of Diamonds, 
+Bank Balance before Bet: $0
+Bet Amount: $123
+Result: win
+
+Date and Time = 26/01/2023 18:04:37
+Dealer Card: 2 of Spades, A of Hearts, 9 of Spades, 
+Player Card: 4 of Clubs, K of Hearts, 7 of Diamonds, 
+Bank Balance before Bet: $0
+Bet Amount: $246
+Result: win
