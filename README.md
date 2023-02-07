@@ -28,4 +28,4 @@ The game features a menu with 3 options:
 This game is for entertainment purposes only and is not a simulation of real-world Blackjack. The rules and gameplay may differ from traditional Blackjack.
 
 ## Link to Replit:
-https://replit.com/@TrungTruong3/Blackjack-Python?v=1
+https://replit.com/@TrungTruong3/Blackjack-21?v=1
